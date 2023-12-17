@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/GlobalTimeZone/static/css/main.c639d14b.css",
+    "main.js": "/GlobalTimeZone/static/js/main.59dc9ff1.js",
+    "static/js/496.3ea1168c.chunk.js": "/GlobalTimeZone/static/js/496.3ea1168c.chunk.js",
+    "static/media/day.jpg": "/GlobalTimeZone/static/media/day.0f641e198bcee3377c2f.jpg",
+    "static/media/night.jpg": "/GlobalTimeZone/static/media/night.ab02dd197b90165645d5.jpg",
+    "index.html": "/GlobalTimeZone/index.html",
+    "main.c639d14b.css.map": "/GlobalTimeZone/static/css/main.c639d14b.css.map",
+    "main.59dc9ff1.js.map": "/GlobalTimeZone/static/js/main.59dc9ff1.js.map",
+    "496.3ea1168c.chunk.js.map": "/GlobalTimeZone/static/js/496.3ea1168c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c639d14b.css",
+    "static/js/main.59dc9ff1.js"
+  ]
+}
